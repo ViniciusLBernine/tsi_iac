@@ -1,4 +1,5 @@
 <?php
+//teste
 $a = 5;
 $b = 3;
 $soma = $a + $b;
